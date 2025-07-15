@@ -1,1 +1,3 @@
-notes.txt
+graph-test/files-ts/file-ignore.ts
+graph-test/files-ts/folder-ignore/
+graph-test/files-c-sharp/TestCSharp/bin/
